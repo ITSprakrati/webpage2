@@ -118,3 +118,12 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+footer a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 1024px) {
+}
+
+@media (max-width: 600px) {
+}
